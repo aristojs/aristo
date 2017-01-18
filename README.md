@@ -6,11 +6,11 @@ You can do whatever you want :P
 
 ```js
 console.log(cl({ class1: true, class2: true, class3: false, class4: true }))
-// > "class1 class2 class4"
+// > " class1 class2 class4"
 
 var myClass2 = 'class2';
 console.log(cl('class1', true, myClass2, true, 'class3', false ))
-// > "class1 class2"
+// > " class1 class2"
 
 var myClass1 = 'class1'
 var myClass3 = 'class3'
@@ -28,4 +28,4 @@ console.log(result)
 ```
 
 # Demo environment
-[jsbin](http://jsbin.com/gukanamode/edit?js,console)
+[jsbin](http://jsbin.com/dezodopulo/1/edit?js,console)
