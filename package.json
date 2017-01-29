@@ -1,6 +1,6 @@
 {
   "name": "classlayer",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "HTML class name attribute joining on steroids",
   "main": "dist/classlayer.js",
   "scripts": {
