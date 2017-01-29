@@ -2,7 +2,7 @@
   "name": "classlayer",
   "version": "3.0.0",
   "description": "HTML class name attribute joining on steroids",
-  "main": "classlayer.js",
+  "main": "dist/classlayer.js",
   "scripts": {
     "build": "./node_modules/.bin/rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
