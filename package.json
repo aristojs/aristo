@@ -1,6 +1,6 @@
 {
   "name": "aristo",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "description": "HTML class name attribute joining on steroids",
   "main": "dist/aristo.js",
   "scripts": {
