@@ -5,11 +5,11 @@ import commonjs from 'rollup-plugin-commonjs';*/
 import buble from 'rollup-plugin-buble'
 
 export default {
-  entry: 'lib/classlayer.js',
-  dest: 'dist/classlayer.js',
+  entry: 'lib/aristo.js',
+  dest: 'dist/aristo.js',
   format: 'umd',
-  moduleId: 'classlayer',
-  moduleName: 'Classlayer',
+  moduleId: 'aristo',
+  moduleName: 'Aristo',
 //  sourceMap: 'false',
   plugins: [
     // flow(),

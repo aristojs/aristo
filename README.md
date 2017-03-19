@@ -1,4 +1,4 @@
-# classlayer
+# Aristo
 HTML class name attribute joining on steroids 
 
 # How to use it / examples

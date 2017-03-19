@@ -1,15 +1,15 @@
 {
-  "name": "classlayer",
+  "name": "aristo",
   "version": "3.0.1",
   "description": "HTML class name attribute joining on steroids",
-  "main": "dist/classlayer.js",
+  "main": "dist/aristo.js",
   "scripts": {
     "build": "./node_modules/.bin/rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/classlayerjs/classlayer.git"
+    "url": "git+https://github.com/aristojs/aristo.git"
   },
   "author": {
     "name": "Katja Lutz",
@@ -18,9 +18,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/classlayerjs/classlayer/issues"
+    "url": "https://github.com/aristojs/aristo/issues"
   },
-  "homepage": "https://github.com/classlayerjs/classlayer#readme",
+  "homepage": "https://github.com/aristojs/aristo#readme",
   "devDependencies": {
     "buble": "^0.15.2",
     "rollup": "^0.41.4",

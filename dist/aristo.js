@@ -1,7 +1,7 @@
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
-	typeof define === 'function' && define.amd ? define('classlayer', ['exports'], factory) :
-	(factory((global.Classlayer = global.Classlayer || {})));
+	typeof define === 'function' && define.amd ? define('aristo', ['exports'], factory) :
+	(factory((global.Aristo = global.Aristo || {})));
 }(this, (function (exports) { 'use strict';
 
 var cl = (function() {
